@@ -5,12 +5,12 @@ private function aptInit() {
 
     if (
         !igconfig.GetVarValue('APTConfig', 'APTVersion') ||
-        StringToFloat(igconfig.GetVarValue('APTConfig', 'APTVersion')) != 2.0f
+        StringToFloat(igconfig.GetVarValue('APTConfig', 'APTVersion')) != 2.1f
     ) {
         igconfig.SetVarValue('APTConfig', 'APTEnabled', 2);
         igconfig.SetVarValue('APTConfig', 'APTTargetSelector', 3);
         igconfig.SetVarValue('APTConfig', 'APTIcon', 2);
-        igconfig.SetVarValue('APTConfig', 'APTVersion', "2.0");
+        igconfig.SetVarValue('APTConfig', 'APTVersion', "2.1");
     }
 
     AddEffectDefault(EET_APT, NULL, 'modAPT');
