@@ -49,7 +49,7 @@ How to use this mod?
 
 Localization
 ------------
-    See `localization/readme.localization.md` for instructions on translating this mod into your language.
+    See `localization\readme.localization.md` for instructions on translating this mod into your language.
 
 Uninstallation
 --------------

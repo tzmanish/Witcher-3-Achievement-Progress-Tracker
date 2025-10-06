@@ -47,7 +47,7 @@ No more guesswork - this mod turns grind into minigame, making every achievement
  2. Select the achievement you wish to Track.
 
 ## Localization
-See `localization/readme.localization.md` for instructions on translating this mod into your language.
+See `localization\readme.localization.md` for instructions on translating this mod into your language.
 
 ## Uninstallation
 ### Option-A: Uninstall using W3 mod manager.  
