@@ -1,0 +1,57 @@
+;meta[language=en]
+;id|key(hex)|key(str)|text
+;
+;Achievement Progress Tracker's Nexus ID is 5912 so left is 211-5912-xxx
+2115912000||panel_Mods|Mods
+2115912001||panel_apt_name|Achievement Progress Tracker
+2115912002||preset_Mods_apt_name|APT Presets
+2115912003||preset_value_apt_default|Default
+2115912004||option_apt_version|APT Version
+2115912005||option_apt_enabled|Achievement Progress Tracking
+2115912006||preset_value_apt_off|Disabled
+2115912007||preset_value_apt_banner|Notification Banner
+2115912008||preset_value_apt_hud|Hud Module Buff
+2115912009||preset_value_apt_hudNBanner|Hud and Banner
+2115912010||option_apt_selector|Select Achievement
+2115912011||preset_value_apt_enemyofmyfriend|The Enemy of My Enemy
+2115912012||preset_value_apt_fussthsth|Humpty Dumpty
+2115912013||preset_value_apt_environmentunfriendly|Environmentally Unfriendly
+2115912014||preset_value_apt_trainedinkaermorhen|Kaer Morhen Trained
+2115912015||preset_value_apt_theevilestthing|That Is the Evilest Thing
+2115912016||preset_value_apt_breakingbad|Let's Cook!
+2115912017||preset_value_apt_bombardier|Bombardier
+2115912018||preset_value_apt_bookworm|Bookworm
+2115912019||preset_value_apt_technoprogress|Master Marksman
+2115912020||preset_value_apt_rage|Overkill
+2115912021||preset_value_apt_fireinthehole|Fire in the Hole
+2115912022||preset_value_apt_fundamentalsfirst|Even Odds
+2115912023||preset_value_apt_finesse|Can't Touch This!
+2115912024||preset_value_apt_featherstrongerthansword|Return to Sender
+2115912025||preset_value_apt_thirst|Can Quit Anytime I Want
+2115912026||preset_value_apt_wanteddeadorbovine|Moo-rderer (Secret)
+2115912027||preset_value_apt_slide|Rad Steez, Bro! (Secret)
+2115912028||preset_value_apt_explorer|Globetrotter
+2115912029||effect_name_apt_statistic_known_bombs|Bombardier
+2115912030||effect_name_apt_statistic_read_books|Bookworm
+2115912031||effect_name_apt_statistic_active_potions|Can Quit Anytime I Want
+2115912032||effect_name_apt_statistic_finesse_kills|Can’t Touch This!
+2115912033||effect_name_apt_statistic_environment_kills|Environmentally Unfriendly
+2115912034||effect_name_apt_statistic_fundamentals_kills|Even Odds
+2115912035||effect_name_apt_statistic_destroyed_nests|Fire in the Hole
+2115912036||effect_name_apt_statistic_aardfall_kills|Humpty Dumpty
+2115912037||effect_name_apt_statistic_counterattack_chain|Kaer Morhen Trained
+2115912038||effect_name_apt_statistic_known_potions|Let’s Cook!
+2115912039||effect_name_apt_statistic_head_shot_kills|Master Marksman
+2115912040||effect_name_apt_statistic_killed_cows|Moo-rderer *
+2115912041||effect_name_apt_statistic_bleed_burn_poison|Overkill
+2115912042||effect_name_apt_statistic_slide_time|Rad Steez, Bro! *
+2115912043||effect_name_apt_statistic_self_arrow_kills|Return to Sender
+2115912044||effect_name_apt_statistic_burning_gas_triggers|That Is the Evilest Thing…
+2115912045||effect_name_apt_statistic_charmed_kills|The Enemy of My Enemy
+2115912046||option_apt_icons|HUD Icon
+2115912047||preset_value_apt_icon0|Color-1
+2115912048||preset_value_apt_icon1|B&W-1
+2115912049||preset_value_apt_icon2|Color-2
+2115912050||preset_value_apt_icon3|B&W-2
+2115912051||preset_value_apt_icon4|Color-3
+2115912052||preset_value_apt_icon5|B&W-3

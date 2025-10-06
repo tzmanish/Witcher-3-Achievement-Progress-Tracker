@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-16"?>
+<UserConfig>
+  <Group id="APTConfig" displayName="Mods.apt_name">
+    <PresetsArray>
+      <Preset id="0" displayName="apt_default">
+        <Entry varId="APTEnabled" value="2"/>
+        <Entry varId="APTTarget" value="3"/>
+        <Entry varId="APTIcon" value="2"/>
+      </Preset>
+    </PresetsArray>
+
+    <VisibleVars>
+      <Var id="APTVersion" displayName="apt_version" displayType="SLIDER;0;10;100" visibilityCondition="hideAlways"/>
+      <Var id="APTEnabled" displayName="apt_enabled" displayType="OPTIONS">
+        <OptionsArray>
+          <Option id="0" displayName="apt_off"><Entry varId="APTEnabled" value="0"/></Option>
+          <Option id="1" displayName="apt_banner"><Entry varId="APTEnabled" value="1"/></Option>
+          <Option id="2" displayName="apt_hud"><Entry varId="APTEnabled" value="2"/></Option>
+          <Option id="3" displayName="apt_hudNBanner"><Entry varId="APTEnabled" value="3"/></Option>
+        </OptionsArray>
+      </Var>
+      <Var id="APTTargetName" displayName="" displayType="" visibilityCondition="hideAlways"/>
+      <Var id="APTTarget" displayName="apt_selector" displayType="OPTIONS">
+        <OptionsArray>
+          <Option id="0" displayName="APT_EnemyOfMyFriend"><Entry varId="APTTargetName" value="EnemyOfMyFriend"/></Option>
+          <Option id="1" displayName="APT_FusSthSth"><Entry varId="APTTargetName" value="FusSthSth"/></Option>
+          <Option id="2" displayName="APT_EnvironmentUnfriendly"><Entry varId="APTTargetName" value="EnvironmentUnfriendly"/></Option>
+          <Option id="3" displayName="APT_TrainedInKaerMorhen"><Entry varId="APTTargetName" value="TrainedInKaerMorhen"/></Option>
+          <Option id="4" displayName="APT_TheEvilestThing"><Entry varId="APTTargetName" value="TheEvilestThing"/></Option>
+          <Option id="5" displayName="APT_BreakingBad"><Entry varId="APTTargetName" value="BreakingBad"/></Option>
+          <Option id="6" displayName="APT_Bombardier"><Entry varId="APTTargetName" value="Bombardier"/></Option>
+          <Option id="7" displayName="APT_Bookworm"><Entry varId="APTTargetName" value="Bookworm"/></Option>
+          <Option id="8" displayName="APT_TechnoProgress"><Entry varId="APTTargetName" value="TechnoProgress"/></Option>
+          <Option id="9" displayName="APT_Rage"><Entry varId="APTTargetName" value="Rage"/></Option>
+          <Option id="10" displayName="APT_FireInTheHole"><Entry varId="APTTargetName" value="FireInTheHole"/></Option>
+          <Option id="11" displayName="APT_FundamentalsFirst"><Entry varId="APTTargetName" value="FundamentalsFirst"/></Option>
+          <Option id="12" displayName="APT_Finesse"><Entry varId="APTTargetName" value="Finesse"/></Option>
+          <Option id="13" displayName="APT_FeatherStrongerThanSword"><Entry varId="APTTargetName" value="FeatherStrongerThanSword"/></Option>
+          <Option id="14" displayName="APT_Thirst"><Entry varId="APTTargetName" value="Thirst"/></Option>
+          <Option id="15" displayName="APT_WantedDeadOrBovine"><Entry varId="APTTargetName" value="WantedDeadOrBovine"/></Option>
+          <Option id="16" displayName="APT_Slide"><Entry varId="APTTargetName" value="Slide"/></Option>
+          <Option id="17" displayName="APT_Explorer"><Entry varId="APTTargetName" value="Explorer"/></Option>
+        </OptionsArray>
+      </Var>
+      <Var id="APTIconPath" displayName="" displayType="" visibilityCondition="hideAlways"/>
+      <Var id="APTIcon" displayName="apt_icons" displayType="OPTIONS">
+        <OptionsArray>
+          <Option id="0" displayName="apt_icon0"><Entry varId="APTIconPath" value="modAPT/apt_color_1.png"/></Option>
+          <Option id="1" displayName="apt_icon1"><Entry varId="APTIconPath" value="modAPT/apt_bw_1.png"/></Option>
+          <Option id="2" displayName="apt_icon2"><Entry varId="APTIconPath" value="modAPT/apt_color_2.png"/></Option>
+          <Option id="3" displayName="apt_icon3"><Entry varId="APTIconPath" value="modAPT/apt_bw_2.png"/></Option>
+          <Option id="4" displayName="apt_icon4"><Entry varId="APTIconPath" value="modAPT/apt_color_3.png"/></Option>
+          <Option id="5" displayName="apt_icon5"><Entry varId="APTIconPath" value="modAPT/apt_bw_3.png"/></Option>
+        </OptionsArray>
+      </Var>
+    </VisibleVars>
+  </Group>
+</UserConfig>
