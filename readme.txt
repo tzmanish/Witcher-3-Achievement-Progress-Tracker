@@ -8,24 +8,24 @@ Achievement Progress Tracker
 
 Supported achievements
 ----------------------
-    Bombardier                 : Collect the formulae for 6 different bomb types.
-    Bookworm                   : Read 30 books, journals or other documents.
-    Can Quit Anytime I Want    : Be under the influence of 7 potions or decoctions at the same time.
-    Can't Touch This!          : Kill 5 foes in a fight without taking damage (except for Toxicity) and without using the Quen Sign.|
-    Environmentally Unfriendly : Kill 50 opponents using the environment (e.g. swamp gas, insects or objects).
-    Even Odds                  : Kill 2 monsters you have a contract on without using Signs, potions, mutagens, oils or bombs.
-    Fire in the Hole           : Destroy 10 monster nests using bombs.
-    Humpty Dumpty              : Kill 10 opponents by knocking them off somewhere high with the Aard Sign.
-    Kaer Morhen Trained        : Perform 10 effective counterattacks in a row without getting hit or parrying.
-    Let's Cook!                : Learn 12 potion formulae.
-    Master Marksman            : Kill 50 human and nonhuman opponents by striking them in the head with a crossbow bolt.
-    Moo-rderer                 : (SECRET)
-    Overkill                   : Make an opponent suffer from bleeding, poisoning and burning simultaneously. Do this 10 times.
-    Rad Steez, Bro!            : (SECRET)
-    Return to Sender           : Kill 3 opponents with their own arrows.
-    That Is the Evilest Thing… : Ignite the gas produced by a Dragon's Dream bomb using a burning opponent. Do this 10 times.
-    The Enemy of My Enemy      : Use the Axii Sign to force one opponent to kill another. Do this 20 times.
-    Globetrotter               : Discover 100 fast travel points.
+    Bombardier                   : Collect the formulae for 6 different bomb types.
+    Bookworm                     : Read 30 books, journals or other documents.
+    Can Quit Anytime I Want      : Be under the influence of 7 potions or decoctions at the same time.
+    Can't Touch This!            : Kill 5 foes in a fight without taking damage (except for Toxicity) and without using the Quen Sign.|
+    Environmentally Unfriendly   : Kill 50 opponents using the environment (e.g. swamp gas, insects or objects).
+    Even Odds                    : Kill 2 monsters you have a contract on without using Signs, potions, mutagens, oils or bombs.
+    Fire in the Hole             : Destroy 10 monster nests using bombs.
+    Humpty Dumpty                : Kill 10 opponents by knocking them off somewhere high with the Aard Sign.
+    Kaer Morhen Trained          : Perform 10 effective counterattacks in a row without getting hit or parrying.
+    Let's Cook!                  : Learn 12 potion formulae.
+    Master Marksman              : Kill 50 human and nonhuman opponents by striking them in the head with a crossbow bolt.
+    Moo-rderer                   : (SECRET)
+    Overkill                     : Make an opponent suffer from bleeding, poisoning and burning simultaneously. Do this 10 times.
+    Rad Steez, Bro!              : (SECRET)
+    Return to Sender             : Kill 3 opponents with their own arrows.
+    That Is the Evilest Thing... : Ignite the gas produced by a Dragon's Dream bomb using a burning opponent. Do this 10 times.
+    The Enemy of My Enemy        : Use the Axii Sign to force one opponent to kill another. Do this 20 times.
+    Globetrotter                 : Discover 100 fast travel points.
 
 Installation
 ------------
@@ -61,9 +61,12 @@ Uninstallation
 
 Changelog
 ---------
+    2.1_alpha
+        - Removed method-replacements and performed minor restructuring to further reduce potential merge conflicts.
+
     2.0_alpha
         - Ported to 4.04.
-        - Alpha build — tested on a clean system (no other mods installed); your results may vary.
+        - Alpha build - tested on a clean system (no other mods installed); your results may vary.
         - Code cleanups and performance improvements.
         - Uses script overrides to minimize merge conflicts with other mods.
         - Added Globetrotter achievement support.

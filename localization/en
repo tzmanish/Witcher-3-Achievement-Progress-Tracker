@@ -17,7 +17,7 @@
 2115912012||preset_value_apt_fussthsth|Humpty Dumpty
 2115912013||preset_value_apt_environmentunfriendly|Environmentally Unfriendly
 2115912014||preset_value_apt_trainedinkaermorhen|Kaer Morhen Trained
-2115912015||preset_value_apt_theevilestthing|That Is the Evilest Thing
+2115912015||preset_value_apt_theevilestthing|That Is the Evilest Thing...
 2115912016||preset_value_apt_breakingbad|Let's Cook!
 2115912017||preset_value_apt_bombardier|Bombardier
 2115912018||preset_value_apt_bookworm|Bookworm
@@ -34,19 +34,19 @@
 2115912029||effect_name_apt_statistic_known_bombs|Bombardier
 2115912030||effect_name_apt_statistic_read_books|Bookworm
 2115912031||effect_name_apt_statistic_active_potions|Can Quit Anytime I Want
-2115912032||effect_name_apt_statistic_finesse_kills|Can’t Touch This!
+2115912032||effect_name_apt_statistic_finesse_kills|Can't Touch This!
 2115912033||effect_name_apt_statistic_environment_kills|Environmentally Unfriendly
 2115912034||effect_name_apt_statistic_fundamentals_kills|Even Odds
 2115912035||effect_name_apt_statistic_destroyed_nests|Fire in the Hole
 2115912036||effect_name_apt_statistic_aardfall_kills|Humpty Dumpty
 2115912037||effect_name_apt_statistic_counterattack_chain|Kaer Morhen Trained
-2115912038||effect_name_apt_statistic_known_potions|Let’s Cook!
+2115912038||effect_name_apt_statistic_known_potions|Let's Cook!
 2115912039||effect_name_apt_statistic_head_shot_kills|Master Marksman
 2115912040||effect_name_apt_statistic_killed_cows|Moo-rderer *
 2115912041||effect_name_apt_statistic_bleed_burn_poison|Overkill
 2115912042||effect_name_apt_statistic_slide_time|Rad Steez, Bro! *
 2115912043||effect_name_apt_statistic_self_arrow_kills|Return to Sender
-2115912044||effect_name_apt_statistic_burning_gas_triggers|That Is the Evilest Thing…
+2115912044||effect_name_apt_statistic_burning_gas_triggers|That Is the Evilest Thing...
 2115912045||effect_name_apt_statistic_charmed_kills|The Enemy of My Enemy
 2115912046||option_apt_icons|HUD Icon
 2115912047||preset_value_apt_icon0|Color-1

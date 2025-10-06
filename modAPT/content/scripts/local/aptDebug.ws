@@ -12,7 +12,12 @@ function BannerApt(str: string) {
 }
 
 function GetAchievementLocalizedName(a : EAchievement): string {
+    var tmp : string;
     if(a == EA_FundamentalsFirst) return GetLocStringByKeyExt("EA_Ghost");
+    if(a == EA_TheEvilestThing) {
+        tmp = GetLocStringByKeyExt("EA_TheEvilestThing");
+        return StrLeft(tmp, StrLen(tmp)-1);
+    }
     return GetLocStringByKeyExt(NameToString(AchievementEnumToName(a)));
 }
 

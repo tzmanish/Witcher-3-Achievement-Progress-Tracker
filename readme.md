@@ -24,7 +24,7 @@ No more guesswork - this mod turns grind into minigame, making every achievement
 |Overkill |Make an opponent suffer from bleeding, poisoning and burning simultaneously. Do this 10 times. |
 |Rad Steez, Bro! |<details><summary>Spoiler</summary>Slide downhill uninterrupted for at least 10 seconds.</details> |
 |Return to Sender |Kill 3 opponents with their own arrows. |
-|That Is the Evilest Thing… |Ignite the gas produced by a Dragon’s Dream bomb using a burning opponent. Do this 10 times. |
+|That Is the Evilest Thing... |Ignite the gas produced by a Dragon’s Dream bomb using a burning opponent. Do this 10 times. |
 |The Enemy of My Enemy |Use the Axii Sign to force one opponent to kill another. Do this 20 times. |
 |Globetrotter |Discover 100 fast travel points. |
 
@@ -57,6 +57,9 @@ See `localization\readme.localization.md` for instructions on translating this m
 3. In the same directory, remove `modAptConfig.xml;` from your filelists (`dx11filelist.txt` and `dx12filelist.txt`).
 
 ## Changelog
+### 2.1_alpha
+- Removed method-replacements and performed minor restructuring to further reduce potential merge conflicts.
+
 ### 2.0_alpha
 - Ported to 4.04.
 - Alpha build - tested on a clean system (no other mods installed); your results may vary.
